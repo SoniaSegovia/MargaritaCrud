@@ -1,0 +1,12 @@
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.dll
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Domain\obj\Debug\net7.0\ref\Domain.dll
