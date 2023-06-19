@@ -37,3 +37,5 @@ D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Web.API\obj\Debug\net7.0\refint\Web
 D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Web.API\obj\Debug\net7.0\Web.API.pdb
 D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
 D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Web.API\obj\Debug\net7.0\ref\Web.API.dll
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Web.API\bin\Debug\net7.0\MediatR.dll
+D:\Escritorio\MargaritaCrud\MargaritaEasyPOS\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll

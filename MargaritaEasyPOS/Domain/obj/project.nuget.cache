@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7NcNhe8kMWgaGsssn5xtiMa2gkA/iL4v9LZELeexlsK4da7VeqXiGEFE+759LNEK/c1DBUrEiVl9FDHtOKJOwA==",
+  "dgSpecHash": "Q2ju+9/08Kse4LwD0Ivke3Ykbv6VbvSIaOYpt2LLJrFvGeSGYWi4LLICZ7llNc6/Tfbf8QBL3NgnvegsXUsozQ==",
   "success": true,
   "projectFilePath": "D:\\Escritorio\\MargaritaCrud\\MargaritaEasyPOS\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
